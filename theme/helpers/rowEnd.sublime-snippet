@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[{{#if @rowEnd}
-${0}
+  <content><![CDATA[{{#if @rowEnd}}
+$0
 {{/if}}]]></content>
   <tabTrigger>@rowEnd</tabTrigger>
   <description>For use in {{#foreach}}</description>

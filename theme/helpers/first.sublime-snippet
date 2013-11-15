@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{#if @first}
+  <content><![CDATA[{{#if @first}}
 ${0}
 {{/if}}]]></content>
   <tabTrigger>@first</tabTrigger>

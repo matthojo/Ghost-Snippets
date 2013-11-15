@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{author.website}]]></content>
+  <content><![CDATA[{{author.website}}]]></content>
   <tabTrigger>author.w</tabTrigger>
   <description>Author Website</description>
     <scope>text.html.handlebars</scope>

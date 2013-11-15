@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{@blog.title}]]></content>
+  <content><![CDATA[{{@blog.title}}]]></content>
   <tabTrigger>blog_title</tabTrigger>
   <description>Blog Title</description>
     <scope>text.html.handlebars</scope>

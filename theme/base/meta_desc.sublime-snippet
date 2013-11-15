@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{meta_description}]]></content>
+  <content><![CDATA[{{meta_description}}]]></content>
   <tabTrigger>meta_desc</tabTrigger>
   <description>Meta Description</description>
     <scope>text.html.handlebars</scope>
