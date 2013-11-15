@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{{#if @even}
+${0}
+{{/if}}]]></content>
+  <tabTrigger>@even</tabTrigger>
+  <description>For use in {{#foreach}}</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

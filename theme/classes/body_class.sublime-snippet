@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{body_class}}]]></content>
+  <tabTrigger>bodyclass</tabTrigger>
+  <description>The body class</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

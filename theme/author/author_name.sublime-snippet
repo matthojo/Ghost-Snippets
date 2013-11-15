@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{author.name}]]></content>
+  <tabTrigger>author.n</tabTrigger>
+  <description>Author Name</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

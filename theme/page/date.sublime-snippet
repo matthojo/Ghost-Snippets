@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{date format="$1"}}]]></content>
+  <tabTrigger>date</tabTrigger>
+  <description>Post Date</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

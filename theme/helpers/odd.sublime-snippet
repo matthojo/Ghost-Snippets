@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{{#if @odd}
+${0}
+{{/if}}]]></content>
+  <tabTrigger>@odd</tabTrigger>
+  <description>For use in {{#foreach}}</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

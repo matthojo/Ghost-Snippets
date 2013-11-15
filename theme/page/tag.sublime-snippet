@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{tag.name}}]]></content>
+  <tabTrigger>tag.n</tabTrigger>
+  <description>Tag Name</description>
+    <scope>text.html.handlebars</scope>
+</snippet>
