@@ -16,6 +16,48 @@ A Sublime plugin for [Ghost](http://ghost.org) snippets.
 * Linux: `~/.config/sublime-text-3/Packages/Ghost Snippets`
 * Mac: `~/Library/Application Support/Sublime Text 3/Packages/Ghost Snippets`
 * Windows: `%APPDATA%/Sublime Text 3/Packages/Ghost Snippets`
+* 
+## Available Snippets
+### Theming
+
+* author → `{{author}}`
+* author.b → `{{author.bio}}`
+* author.c → `{{author.cover}}`
+* author.e → `{{author.email}}`
+* author.i → `{{author.image}}`
+* author.n → `{{author.name}}`
+* author.w → `{{author.website}}`
+
+* body → `{{body}}`
+* foot → `{{ghost_foot}}`
+* head → `{{ghost_head}}`
+* meta_desc → `{{meta_description}}`
+* meta_t → `{{meta_title}}`
+
+* blog_desc → `{{@blog.description}}`
+* blog_logo → `{{@blog.logo}}`
+* blog_title → `{{@blog.title}}`
+* blog_url → `{{@blog.url}}`
+
+* bodyclass → `{{body_class}}`
+* postclass → `{{post_class}}`
+
+* foreach → `{{#foreach }}{{/foreach}}`
+* @odd → `{{#if @odd}} {{/if}}`
+* @even → `{{#if @even}} {{/if}}`
+* @first → `{{#if @first}} {{/if}}`
+* @last → `{{#if @last}} {{/if}}`
+* @rowStart → `{{#if @rowStart}} {{/if}}`
+* @rowEnd → `{{#if @rowEnd}} {{/if}}`
+
+* content → `{{content}}`
+* date → `{{date format=""}}`
+* excerpt → `{{excerpt}}`
+* pagin → `{{pagination}}`
+* tag.n → `{{tag.name}}`
+* tags → `{{tags}}`
+* title → `{{{title}}}`
+* url → `{{url absolute=""}}`
 
 ## Copyright & License
 
