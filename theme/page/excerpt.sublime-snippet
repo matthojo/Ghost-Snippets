@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{excerpt}}]]></content>
+  <content><![CDATA[{{excerpt ${1:words=""} ${2:characters=""}}}]]></content>
   <tabTrigger>excerpt</tabTrigger>
   <description>Post Excerpt</description>
     <scope>text.html.handlebars</scope>

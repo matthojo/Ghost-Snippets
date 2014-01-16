@@ -7,8 +7,8 @@ A Sublime plugin for [Ghost](http://ghost.org) snippets.
 
 * Bring up the Command Palette (Command+Shift+P on OS X, Control+Shift+P on Linux/Windows).
 * Select Package Control: Install Package.
-* Search Ghost
-* Select Ghost Snippets to install.
+* Search for "Ghost"
+* Select "Ghost Snippets" to install.
 
 ### Not using Package Control:
 
@@ -29,6 +29,7 @@ A Sublime plugin for [Ghost](http://ghost.org) snippets.
 * author.w → `{{author.website}}`
 
 * body → `{{body}}`
+* asset → `{{asset ""}}`
 * foot → `{{ghost_foot}}`
 * head → `{{ghost_head}}`
 * meta_desc → `{{meta_description}}`
@@ -42,6 +43,7 @@ A Sublime plugin for [Ghost](http://ghost.org) snippets.
 * bodyclass → `{{body_class}}`
 * postclass → `{{post_class}}`
 
+* encode → `{{encode }}
 * foreach → `{{#foreach }}{{/foreach}}`
 * @odd → `{{#if @odd}} {{/if}}`
 * @even → `{{#if @even}} {{/if}}`
@@ -52,12 +54,12 @@ A Sublime plugin for [Ghost](http://ghost.org) snippets.
 
 * content → `{{content}}`
 * date → `{{date format=""}}`
-* excerpt → `{{excerpt}}`
+* excerpt → `{{excerpt [words=""] [content=""]}}`
 * pagin → `{{pagination}}`
 * tag.n → `{{tag.name}}`
-* tags → `{{tags}}`
+* tags → `{{tags seperator="" [prefix=""] [suffix=""]}}`
 * title → `{{{title}}}`
-* url → `{{url absolute=""}}`
+* url → `{{url [absolute="true"]}}`
 
 ## Copyright & License
 

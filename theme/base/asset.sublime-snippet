@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{asset "$1"}}]]></content>
+  <tabTrigger>asset</tabTrigger>
+  <description>Blog asset</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

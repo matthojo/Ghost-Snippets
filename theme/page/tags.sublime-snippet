@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{tags separator="$1"}}]]></content>
+  <content><![CDATA[{{tags separator="$1" ${2:prefix=""} ${3:suffix=""}}}]]></content>
   <tabTrigger>tags</tabTrigger>
   <description>Tags</description>
     <scope>text.html.handlebars</scope>
