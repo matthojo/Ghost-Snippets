@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[{{url absolute="$1"}}]]></content>
+  <content><![CDATA[{{url ${1:absolute="true"}}}]]></content>
   <tabTrigger>url</tabTrigger>
   <description>Post URL</description>
     <scope>text.html.handlebars</scope>
