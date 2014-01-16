@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{ghost_foot}}]]></content>
+  <tabTrigger>foot</tabTrigger>
+  <description>Blog Footer</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

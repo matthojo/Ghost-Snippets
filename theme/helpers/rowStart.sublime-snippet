@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{{#if @rowStart}}
+$0
+{{/if}}]]></content>
+  <tabTrigger>@rowStart</tabTrigger>
+  <description>For use in {{#foreach}}</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

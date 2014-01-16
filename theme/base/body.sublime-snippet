@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{{body}}}]]></content>
+  <tabTrigger>body</tabTrigger>
+  <description>Blog Body</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

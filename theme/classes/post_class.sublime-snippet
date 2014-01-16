@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{post_class}}]]></content>
+  <tabTrigger>post_class</tabTrigger>
+  <description>The post class</description>
+    <scope>text.html.handlebars</scope>
+</snippet>

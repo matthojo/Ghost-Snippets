@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[{{#foreach $1}}
+$0
+{{/foreach}}]]></content>
+  <tabTrigger>foreach</tabTrigger>
+  <description>foreach(post)</description>
+  <scope>text.html.handlebars</scope>
+</snippet>
