@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[{{encode $1}}]]></content>
+  <tabTrigger>encode</tabTrigger>
+  <description>Encode item</description>
+    <scope>text.html.handlebars</scope>
+</snippet>
